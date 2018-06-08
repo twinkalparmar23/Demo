@@ -1,0 +1,7 @@
+C:\Users\twinkal\source\repos\PrimeMinisterDictionaryProblem\PrimeMinisterDictionaryProblem\bin\Debug\PrimeMinisterDictionaryProblem.exe.config
+C:\Users\twinkal\source\repos\PrimeMinisterDictionaryProblem\PrimeMinisterDictionaryProblem\bin\Debug\PrimeMinisterDictionaryProblem.exe
+C:\Users\twinkal\source\repos\PrimeMinisterDictionaryProblem\PrimeMinisterDictionaryProblem\bin\Debug\PrimeMinisterDictionaryProblem.pdb
+C:\Users\twinkal\source\repos\PrimeMinisterDictionaryProblem\PrimeMinisterDictionaryProblem\obj\Debug\PrimeMinisterDictionaryProblem.csprojAssemblyReference.cache
+C:\Users\twinkal\source\repos\PrimeMinisterDictionaryProblem\PrimeMinisterDictionaryProblem\obj\Debug\PrimeMinisterDictionaryProblem.csproj.CoreCompileInputs.cache
+C:\Users\twinkal\source\repos\PrimeMinisterDictionaryProblem\PrimeMinisterDictionaryProblem\obj\Debug\PrimeMinisterDictionaryProblem.exe
+C:\Users\twinkal\source\repos\PrimeMinisterDictionaryProblem\PrimeMinisterDictionaryProblem\obj\Debug\PrimeMinisterDictionaryProblem.pdb

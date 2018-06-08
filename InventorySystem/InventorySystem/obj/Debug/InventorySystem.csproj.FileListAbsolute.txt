@@ -1,0 +1,7 @@
+C:\Users\twinkal\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe.config
+C:\Users\twinkal\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.exe
+C:\Users\twinkal\source\repos\InventorySystem\InventorySystem\bin\Debug\InventorySystem.pdb
+C:\Users\twinkal\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csprojAssemblyReference.cache
+C:\Users\twinkal\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.csproj.CoreCompileInputs.cache
+C:\Users\twinkal\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.exe
+C:\Users\twinkal\source\repos\InventorySystem\InventorySystem\obj\Debug\InventorySystem.pdb

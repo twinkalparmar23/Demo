@@ -1,0 +1,6 @@
+C:\Users\twinkal\source\repos\EnglishDictionaryOp\EnglishDictionaryOp\bin\Debug\EnglishDictionaryOp.exe.config
+C:\Users\twinkal\source\repos\EnglishDictionaryOp\EnglishDictionaryOp\bin\Debug\EnglishDictionaryOp.exe
+C:\Users\twinkal\source\repos\EnglishDictionaryOp\EnglishDictionaryOp\bin\Debug\EnglishDictionaryOp.pdb
+C:\Users\twinkal\source\repos\EnglishDictionaryOp\EnglishDictionaryOp\obj\Debug\EnglishDictionaryOp.csproj.CoreCompileInputs.cache
+C:\Users\twinkal\source\repos\EnglishDictionaryOp\EnglishDictionaryOp\obj\Debug\EnglishDictionaryOp.exe
+C:\Users\twinkal\source\repos\EnglishDictionaryOp\EnglishDictionaryOp\obj\Debug\EnglishDictionaryOp.pdb
